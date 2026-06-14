@@ -42,12 +42,12 @@ _Currently brainstorming the next challenging project to implement advanced Pyth
 
 ## 👨‍💻 About the Developer
 
-I am **Mohammad Jishan**, a B.Tech Computer Science Engineering student (2022-2026) and an aspiring Full Stack Developer. I believe in the "Build in Public" philosophy, constantly documenting my coding journey and building real-world projects to level up my skills.
+I am **Mohammad Jishan**, a Full Stack Developer specializing in building robust, scalable applications using modern web technologies. I strongly believe in the "Build in Public" philosophy—sharing technical insights, documenting complex problem-solving, and architecting real-world solutions that deliver actual value.
 
 📫 **Connect with me:**
 
-- **LinkedIn:** [Insert Link Here]
-- **Portfolio:** [Insert React Portfolio Link Here]
+- **LinkedIn:** https://www.linkedin.com/in/mohammad-jishan-5a083627a/
+- **Portfolio:** https://mohammadjishanportfolio.netlify.app/
 
 <br/>
 <p align="center"><i>Built with ❤️ by Mohammad Jishan</i></p>
