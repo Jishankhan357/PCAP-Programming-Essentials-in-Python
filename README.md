@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco-Networking_Academy-049fd9?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Active_Development-success?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 
 ## 📌 About This Repository
 
@@ -15,6 +15,7 @@ The core objective of this repository is to demonstrate the practical applicatio
 - File Handling & Binary Serialization (`pickle`)
 - Modular Programming & Architecture
 - Command Line Interface (CLI) Design
+- REST API Integration & JSON Parsing
 
 ---
 
@@ -34,9 +35,12 @@ A classic 2-player terminal game featuring dynamic board updates and input valid
 - **Key Skills:** Array Manipulation, Game Loop Logic, Error Handling (`try-except`).
 - [Explore Project ->](./02-tic-tac-toe)
 
-### 3. Advanced Python App (Coming Soon ⏳)
+### 3. [API-Driven GitHub Profile Analyzer](./03-advanced-python-app)
 
-_Currently brainstorming the next challenging project to implement advanced Python concepts._
+A powerful CLI tool that interacts with the GitHub REST API to fetch real-time developer statistics, parse complex JSON responses, and display top repositories based on stargazers.
+
+- **Key Skills:** REST API (`urllib`), JSON Parsing, Data Sorting (`lambda`), Data Formatting (`datetime`).
+- [Explore Project ->](./03-advanced-python-app)
 
 ---
 
