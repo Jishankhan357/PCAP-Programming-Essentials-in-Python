@@ -35,7 +35,7 @@ A classic 2-player terminal game featuring dynamic board updates and input valid
 - **Key Skills:** Array Manipulation, Game Loop Logic, Error Handling (`try-except`).
 - [Explore Project ->](./02-tic-tac-toe)
 
-### 3. [API-Driven GitHub Profile Analyzer](./03-advanced-python-app)
+### 3. [API-Driven GitHub Profile Analyzer](./03-gitHub-profile-analyzer)
 
 A powerful CLI tool that interacts with the GitHub REST API to fetch real-time developer statistics, parse complex JSON responses, and display top repositories based on stargazers.
 
