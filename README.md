@@ -50,7 +50,7 @@ I am **Mohammad Jishan**, a Full Stack Developer specializing in building robust
 
 📫 **Connect with me:**
 
-- **LinkedIn:** https://www.linkedin.com/in/mohammad-jishan-5a083627a/
+- **LinkedIn:** https://www.linkedin.com/in/jishankhan357/
 - **Portfolio:** https://mohammadjishan.me/
 
 <br/>
