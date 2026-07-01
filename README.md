@@ -51,7 +51,7 @@ I am **Mohammad Jishan**, a Full Stack Developer specializing in building robust
 📫 **Connect with me:**
 
 - **LinkedIn:** https://www.linkedin.com/in/mohammad-jishan-5a083627a/
-- **Portfolio:** https://mohammadjishanportfolio.netlify.app/
+- **Portfolio:** https://mohammadjishan.me/
 
 <br/>
 <p align="center"><i>Built with ❤️ by Mohammad Jishan</i></p>
