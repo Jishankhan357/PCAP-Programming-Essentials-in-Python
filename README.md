@@ -40,7 +40,7 @@ A classic 2-player terminal game featuring dynamic board updates and input valid
 A powerful CLI tool that interacts with the GitHub REST API to fetch real-time developer statistics, parse complex JSON responses, and display top repositories based on stargazers.
 
 - **Key Skills:** REST API (`urllib`), JSON Parsing, Data Sorting (`lambda`), Data Formatting (`datetime`).
-- [Explore Project ->](./03-advanced-python-app)
+- [Explore Project ->](./03-github-profile-analyzer)
 
 ---
 
